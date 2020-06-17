@@ -3,7 +3,7 @@ An API for parsing excel files, returning valid JSON
 
 Contributing to the Excel MicroAPI repo (a 5 minute read)
 
-##To get started:
+## To get started:
 
 Make sure you are on a desktop or laptop, and signed in to Github
 
@@ -29,7 +29,7 @@ It should look like this
 ```git clone https://github.com/[yourGithubUsername]/ExcelAPI.git```
 
 **Step 6**: To start your work, work the directory that contains the project files.
-```cd HNG_storm-task```
+```cd ExcelAPI```
 
 **Step 7**: ```git remote add upstream https://github.com/AbdulmalikGiwa/ExcelAPI.git```
 
