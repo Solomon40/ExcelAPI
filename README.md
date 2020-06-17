@@ -44,6 +44,7 @@ Run: ```git checkout -b <nameOfBranch>```
 
 You can use any name for your branch.
 (But if you are an intern in HNG organisation, for consistency and orderliness, use your slack username)
+
 IE: <nameOfBranch> should be replaced with your slack username, use hypen where you will normally use space. This implies if you have space(" ") in your username, use hypen("-")
 
 For example,
@@ -60,3 +61,26 @@ For example:
 ```peterFolder```
 ```parkerDir```
 
+Once you are done with your work and you have tested that everything works perfectly.
+
+Run: ```git add .```
+Run: ```git commit -m "feat: create runtime display"```
+
+```git push origin <nameOfBranch>```
+
+For example, it would be
+git push origin peter-parker - (Notice how it ends with the branch you created earlier).
+
+## Creating Pull requests
+
+PR === Pull request
+
+Go to github.com, locate the repository you forked in step 1
+
+As soon as you get there, you are going to see a green ‘compare and create a pull request’
+
+Click on it, and type your message, click on create pull request. It will be merged as soon as possible
+
+If you have any more questions, check out this resource -> https://www.youtube.com/watch?v=HbSjyU2vf6Y or contact @Abdulmalik6369 @p_yn3, @figures or @Izic_Temi on the HNGi7 slack workspace.
+
+Happy contributing! :+1:
